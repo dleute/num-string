@@ -14,7 +14,7 @@ Assuming the command `./speedreport.sh -f "Race Car" -s "rAce Car" -n "1, 1, 2, 
 
 This will currently only run on a Mac with OS X Yosemite, PHP and Java properly installed in the path. To make it easier I have included the compiled binaries where relevant in the git.
 
-The script will run each version of the code a sing time for six different outputs.
+The script will run each version of the code a single time for six different outputs.
 
 Since -r 10000 was provided, each code base was also designed to test looping the input that many times. This is rudimentary testing to give an idea of which language is best for which task.
 
