@@ -1,7 +1,7 @@
 Explanation
 ==========
 
-This is a performance exploration of several different languages. Tere are two logic tests each of which present different issues.
+This is a performance exploration of several different languages. There are two logic tests each of which present different issues.
 
 Currently it is supported in 3 languages: Swift, PHP and Java.
 
