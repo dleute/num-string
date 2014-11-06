@@ -22,34 +22,47 @@ Output
 ==========
 
 String 1: Race Car
+
 String 2: rAce Car
+
 Numbers: 1, 1, 2, 4, 4, 5, 5, 5, 6, 7, 9
+
 Loop: 10000 iterations
 
 Swift - Numbers
 
 1) [[1, 9], [1, 9], [4, 6], [4, 6], [5, 5], [5, 5], [5, 5], [5, 5], [5, 5], [5, 5], [6, 4], [6, 4], [9, 1], [9, 1]]
+
 2) [[1, 9], [4, 6], [5, 5], [6, 4], [9, 1]]
+
 3) [[1, 9], [4, 6], [5, 5]]
 
 PHP - Numbers
 
 1) [[1, 9], [1, 9], [4, 6], [4, 6], [5, 5], [5, 5], [5, 5], [5, 5], [5, 5], [5, 5], [6, 4], [6, 4], [9, 1], [9, 1]]
+
 2) [[1, 9], [4, 6], [5, 5], [6, 4], [9, 1]]
+
 3) [[1, 9], [4, 6], [5, 5]]
 
 Java - Numbers
 
 1) [[1, 9], [1, 9], [4, 6], [4, 6], [5, 5], [5, 5], [5, 5], [5, 5], [5, 5], [5, 5], [6, 4], [6, 4], [9, 1], [9, 1]]
+
 2) [[1, 9], [4, 6], [5, 5], [6, 4], [9, 1]]
+
 3) [[1, 9], [4, 6], [5, 5]]
 
 Swift - Strings
 
 1) true
+
 2) false
+
 3) true
+
 4) true
+
 5) false
 
 PHP - Strings
@@ -63,25 +76,35 @@ PHP - Strings
 Java - Strings
 
 1) true
+
 2) false
+
 3) true
+
 4) true
+
 5) false
 
 Swift - Numbers - Loop 10000
+
 Per Second: 9805.8 Total: 1.01980501413345
 
 PHP - Numbers - Loop 10000
+
 Per Second: 14,447.2 Total: 0.69217801094055
 
 Java - Numbers - Loop 10000
+
 Per Second: 50528.2 Total: 0.197909258
 
 Swift - Strings - Loop 10000
+
 Per Second: 4760.7 Total: 2.10054397583008
 
 PHP - Strings - Loop 10000
+
 Per Second: 167,048.5 Total: 0.059862852096558
 
 Java - Strings - Loop 10000
+
 Per Second: 117990.5 Total: 0.084752606
